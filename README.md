@@ -36,14 +36,13 @@
 
 ## 🧪 Technologies Used
 
-+-----------+------------------------+
 | Layer     | Tech Stack             |
 |-----------|------------------------|
 | Frontend  | AngularJS, HTML, CSS   |
 | Backend   | Spring Boot, Java      |
 | Database  |  MySQL                 |
 | Tools     | Git, GitHub, Maven     |
-+-----------+------------------------+
+
 ---
 
 ## 📁 Getting Started
